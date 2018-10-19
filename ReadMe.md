@@ -8,7 +8,9 @@ Build as a maven project once to download all required dependencies.
 basic Structure of project:
 
 -- po -> pageObject
+
 -- flow -> write business logic in small modules as per requirement.
+
 -- test -> test cases.
 
 
